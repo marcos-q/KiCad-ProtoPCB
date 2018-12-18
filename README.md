@@ -1,4 +1,4 @@
 # KiCad-ProtoPCB
 Placa de tiras con formato protoboard
 
-[alt tag](http://url/to/img.png)
+[alt tag](https://github.com/marcos-q/KiCad-ProtoPCB/blob/master/protoPCB.jpg)
